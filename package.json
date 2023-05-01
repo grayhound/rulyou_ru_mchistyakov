@@ -1,0 +1,18 @@
+{
+  "name": "rulyou_ru_mchistyakov",
+  "version": "0.0.1",
+  "description": "Test task for rulyou.ru from Maksim Chistyakov",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maksim \"Grayhound\" Chistyakov <admin@devilmaydie.name>",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "adm-zip": "^0.5.10",
+    "fast-xml-parser": "^4.2.2",
+    "iconv-lite": "^0.6.3",
+    "node-fetch": "^3.3.1"
+  }
+}
